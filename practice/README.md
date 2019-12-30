@@ -1,4 +1,6 @@
-Name
+これはREADME.mdのテンプレ
+====
+Name：かっこいい名前を書く
 ====
 
 Overview
@@ -17,10 +19,6 @@ Overview
 
 ## Contribution
 
-## Licence
-
-[MIT](https://github.com/tcnksm/tool/blob/master/LICENCE)
-
 ## Author
 
-[tcnksm](https://github.com/tcnksm)
+[70417nana](https://github.com/70417nana)
