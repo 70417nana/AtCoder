@@ -1,23 +1,9 @@
 これはREADME.mdのテンプレ
 ====
-Name：かっこいい名前を書く
-====
 
 Overview
 
 ## Description
-
-## Demo
-
-## VS. 
-
-## Requirement
-
-## Usage
-
-## Install
-
-## Contribution
 
 ## Author
 
